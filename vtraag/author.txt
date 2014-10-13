@@ -1,0 +1,4 @@
+This module is a framework for community detection written by Vincent Traag. 
+
+For more information, check out his blog post about it here: http://www.traag.net/2013/10/25/easy-flexible-framework-for-community-detection/
+Here's his repository on launchpad.net: https://launchpad.net/pylouvain-igraph

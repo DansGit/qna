@@ -1,0 +1,10 @@
+*.pyc
+venv/
+data/temp/
+corenlp_log.txt
+stanford-corenlp-full-2013-11-12/
+*.zip
+*~
+*.swp
+*.swo
+*.swn
